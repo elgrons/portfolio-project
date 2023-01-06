@@ -21,7 +21,7 @@ _My first solo project completed for Epicodus coding school. This is a portfolio
 
 ## Known Bugs
 
-* _Any known issues_
+* The float:center; command for img seems to be implemented incorrectly, or is being ignored entirely as a command.
 * _should go here_
 
 ## License

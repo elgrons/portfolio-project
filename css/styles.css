@@ -7,6 +7,7 @@ img {
   width: 400px;
   height: 400px;
   object-fit: scale-down;
+  float: center;
 }
 
 .fun-fact {
@@ -22,4 +23,21 @@ img {
 .lovely {
   color: rgb(197, 85, 37);
   font-weight: bold;
+}
+
+.sidebar {
+  width: 40%;
+  float: left;
+}
+
+.middle {
+  text-align: center;
+}
+
+.my-projects {
+  margin: 10px;
+  border: solid;
+  border-width: auto;
+  background-color:rgb(211, 183, 40);
+  box-sizing: border-box;
 }
