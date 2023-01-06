@@ -2,7 +2,7 @@
 
 #### By _**Eliot Gronstal**_
 
-_A simple portfolio site created using HTML and a CSS style sheet designed to give the user a better idea of who I am.
+A simple portfolio site created using HTML and a CSS style sheet designed to give the user a better idea of who I am.
 
 ## Technologies Used
 

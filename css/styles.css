@@ -1,0 +1,11 @@
+h1 {
+  color: rgb(211, 183, 40);
+  text-align: center;
+}
+
+img {
+  width: 400px;
+  height: 400px;
+  object-fit: scale-down;
+}
+
