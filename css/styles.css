@@ -50,3 +50,10 @@ img {
   background-color:rgb(211, 183, 40);
   box-sizing: border-box;
 }
+
+.closer {
+  border: 2px;
+  margin: 25px;
+  border-width: auto;
+  padding: 25px;
+}
