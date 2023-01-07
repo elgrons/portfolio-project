@@ -3,14 +3,28 @@ h1 {
   text-align: center;
 }
 
+h2 {
+  font-style: italic;
+  text-align: center;
+}
+
 img {
   width: 400px;
   height: 400px;
   object-fit: scale-down;
-  float: center;
+  float: right;
+}
+
+.img-all {
+  float: left;
 }
 
 .fun-fact {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: medium;
+}
+
+.cool-fact {
   font-family: Arial, Helvetica, sans-serif;
   font-size: medium;
 }
@@ -23,11 +37,6 @@ img {
 .lovely {
   color: rgb(197, 85, 37);
   font-weight: bold;
-}
-
-.sidebar {
-  width: 40%;
-  float: left;
 }
 
 .middle {
