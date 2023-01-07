@@ -22,7 +22,7 @@ _My first solo project completed for Epicodus coding school. This is a portfolio
 ## Known Bugs
 
 * The float:center; command for img seems to be implemented incorrectly, or is being ignored entirely as a command.
-* _should go here_
+* My .closer CSS style is being applied to my last two photos as well as my final h1 paragraph, but it's meant to only apply it to the text.
 
 ## License
 
