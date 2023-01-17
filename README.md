@@ -24,7 +24,6 @@ _My first solo project completed for Epicodus coding school. This is a portfolio
 
 * The float:center; command for img seems to be implemented incorrectly, or is being ignored entirely as a command.
 * My .closer CSS style is being applied to my last two photos as well as my final h1 paragraph, but it's meant to only apply it to the text.
-* Lines 20-21 have incorrect indentation in GitHub due to my branches being unable to reconcile and my commits not pushing through to update the HTML.
 
 ## License
 
