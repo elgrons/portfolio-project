@@ -1,4 +1,4 @@
-# _Portfolio Project_
+# Portfolio Project
 
 #### By _**Eliot Gronstal**_
 
@@ -18,7 +18,8 @@ _My first solo project completed for Epicodus coding school. This is a portfolio
 
 * _Clone the repository to your desktop from Github.com._
 * _Open index.html in your browser._
-* [Or Open the website with this link](https://elgrons.github.io/portfolio-project/)
+* Or [Open the website with this link](https://elgrons.github.io/portfolio-project/)
+* Please send any questions or concerns to eliot.lauren@gmail.com
 
 ## Known Bugs
 
@@ -29,4 +30,4 @@ _My first solo project completed for Epicodus coding school. This is a portfolio
 
 MIT
 
-Copyright (c) [01/06/2023] [Eliot Gronstal]
+Copyright (c) [01/06/2023] Eliot Gronstal
